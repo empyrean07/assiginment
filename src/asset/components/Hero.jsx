@@ -32,7 +32,7 @@ export default function Hero() {
                   placeholder="Your business email"
                 className="flex-1 flex justify-center items-center h-16 px-6 text-[18px] placeholder:text-[#9CA3AF] outline-none bg-transparent"
                 style={{
-                padding: " 32px",
+                padding: "0 32px",
                 minHeight: "60px",
                 borderRadius: "16px",
                 fontSize: "16px",
